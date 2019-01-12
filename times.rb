@@ -1,6 +1,7 @@
 counter = 7
-def using_times
-	
+def using_times(loop)
+  loop do
+	puts "Wingardium Leviosa"
 end
 
 
