@@ -5,5 +5,3 @@ def using_times(loop)
 end
 
 
-using_times(loop)
-
